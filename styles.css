@@ -1,0 +1,9 @@
+body{
+    background-color: powderblue;
+    margin: 0;
+}
+h1, p{
+    font-size: 20px;
+    color: black;
+    padding: 16px;
+}
